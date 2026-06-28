@@ -1,4 +1,4 @@
-baseURL = "https://blog.gaojiefeng.uk/"
+baseURL = "https://blog.xushuo.uk/"
 languageCode = "zh-cn"
 title = "高杰峰的博客"
 theme = "PaperMod"
@@ -43,7 +43,7 @@ url = "https://github.com/gaojiefengxswhuhit"
 
 [[params.socialIcons]]
 name = "link"
-url = "https://pan.gaojiefeng.uk"
+url = "https://pan.xushuo.uk"
 
 [menu]
 
@@ -68,7 +68,7 @@ weight = 30
 [[menu.main]]
 identifier = "pan"
 name = "网盘"
-url = "https://pan.gaojiefeng.uk"
+url = "https://pan.xushuo.uk"
 weight = 40
 
 [outputs]
