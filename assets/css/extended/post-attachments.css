@@ -1,0 +1,26 @@
+.post-attachments {
+  margin-top: 32px;
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--entry);
+}
+
+.post-attachments h2 {
+  margin: 0 0 10px;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.post-attachments ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.post-attachments li + li {
+  margin-top: 6px;
+}
+
+.post-attachments a {
+  box-shadow: 0 1px 0 var(--tertiary);
+}

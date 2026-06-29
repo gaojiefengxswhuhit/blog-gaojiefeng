@@ -13,4 +13,5 @@ categories: ["生活"]
 当前网盘入口：
 
 ```text
-https://pan.gaojiefeng.uk
+https://pan.xushuo.uk
+```

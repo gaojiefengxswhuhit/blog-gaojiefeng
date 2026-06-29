@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.xushuo.uk/categories/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.xushuo.uk/posts/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.xushuo.uk/tags/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
+    <loc>https://blog.xushuo.uk/posts/hello/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.xushuo.uk/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://blog.xushuo.uk/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://blog.xushuo.uk/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-06-28T00:00:00+08:00</lastmod>
   </url>
 </urlset>

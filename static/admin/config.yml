@@ -1,0 +1,94 @@
+backend:
+  name: github
+  repo: gaojiefengxswhuhit/blog-gaojiefeng
+  branch: main
+  base_url: https://blog.xushuo.uk
+  auth_endpoint: api/auth
+  commit_messages:
+    create: "cms: 创建 {{collection}} {{slug}}"
+    update: "cms: 更新 {{collection}} {{slug}}"
+    delete: "cms: 删除 {{collection}} {{slug}}"
+    uploadMedia: "cms: 上传媒体 {{path}}"
+    deleteMedia: "cms: 删除媒体 {{path}}"
+
+locale: zh_Hans
+site_url: https://blog.xushuo.uk
+display_url: https://blog.xushuo.uk
+media_folder: static/uploads
+public_folder: /uploads
+
+slug:
+  encoding: unicode
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: posts
+    label: 文章
+    label_singular: 文章
+    folder: content/posts
+    create: true
+    extension: md
+    format: frontmatter
+    preview_path: posts/{{slug}}/
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields:
+      - date
+      - title
+    fields:
+      - label: 标题
+        name: title
+        widget: string
+      - label: 发布日期
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+      - label: 草稿
+        name: draft
+        widget: boolean
+        default: false
+        required: false
+      - label: 摘要
+        name: description
+        widget: text
+        required: false
+      - label: 标签
+        name: tags
+        widget: list
+        required: false
+      - label: 分类
+        name: categories
+        widget: list
+        required: false
+      - label: 封面
+        name: cover
+        widget: object
+        required: false
+        fields:
+          - label: 图片
+            name: image
+            widget: image
+            required: false
+          - label: 替代文本
+            name: alt
+            widget: string
+            required: false
+          - label: 说明
+            name: caption
+            widget: string
+            required: false
+      - label: 附件
+        name: attachments
+        widget: list
+        required: false
+        summary: "{{fields.name}}"
+        fields:
+          - label: 名称
+            name: name
+            widget: string
+          - label: 文件
+            name: file
+            widget: file
+      - label: 正文
+        name: body
+        widget: markdown
