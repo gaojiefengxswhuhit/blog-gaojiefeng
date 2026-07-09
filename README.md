@@ -1,4 +1,4 @@
-# 高杰峰的博客
+# jiefeng 的博客
 
 这是一个 Hugo + PaperMod 静态博客，通过 Cloudflare Pages 部署。
 

@@ -1,6 +1,6 @@
 baseURL = "https://blog.xushuo.uk/"
 languageCode = "zh-cn"
-title = "高杰峰的博客"
+title = "jiefeng 的博客"
 theme = "PaperMod"
 defaultContentLanguage = "zh"
 hasCJKLanguage = true
@@ -15,10 +15,10 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "高杰峰的博客"
+title = "jiefeng 的博客"
 description = "记录 VPS、Cloudflare、OpenList、Telegram Bot、AI、学习和生活折腾。"
 keywords = ["VPS", "Cloudflare", "OpenList", "Telegram Bot", "AI", "Hugo"]
-author = "高杰峰"
+author = "jiefeng"
 DateFormat = "2006-01-02"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -32,7 +32,7 @@ showtoc = true
 tocopen = false
 
 [params.homeInfoParams]
-Title = "高杰峰的博客"
+Title = "jiefeng 的博客"
 Content = """
 这里记录 VPS、Cloudflare Tunnel、OpenList 网盘、Telegram Bot、代理节点、AI 工具，以及学习和生活里的想法。
 """
