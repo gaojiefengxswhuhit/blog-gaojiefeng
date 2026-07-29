@@ -10,7 +10,7 @@ categories:
   - 故事
 summary: "我就出生在第六张图片中，一个房子里的人家。江对岸的灯、停转的工厂和父亲的平底船，构成了我最初认识的世界。"
 cover:
-  image: "/uploads/the-sixth-photo/chapter-01-old-factory.webp"
+  image: "/uploads/the-sixth-photo/original/chapter-01-old-factory.jpg"
   alt: "江岸旧厂房、烟囱、朝鲜国旗和停靠的工作船"
   caption: "第六张照片并不只存在于相机里。"
   relative: false
@@ -43,7 +43,7 @@ cover:
 
 它们每亮一下，都像在告诉我：江的另一边，也有人在吃饭，有人在争吵，有孩子不肯睡觉，也有人正站在窗边，看着我们。
 
-![江对岸显眼的粉红色高层建筑](/uploads/the-sixth-photo/chapter-01-sinuiju-apartment.webp)
+![江对岸显眼的粉红色高层建筑](/uploads/the-sixth-photo/original/chapter-01-sinuiju-apartment.jpg)
 
 *隔着江看过去，远方总比生活本身更像一个完整的世界。*
 
@@ -53,7 +53,7 @@ cover:
 
 父亲开的是一条旧平底船。船底打过很多补丁，木板踩上去会发出吱呀声。水浅的时候，他和同伴便用长杆撑船。那根长杆磨得油亮，顶端包着一圈生锈的铁。
 
-![厂房前的平底船、撑船人和棚下的快艇](/uploads/the-sixth-photo/chapter-01-riverside-factory-boat.webp)
+![厂房前的平底船、撑船人和棚下的快艇](/uploads/the-sixth-photo/original/chapter-01-riverside-factory-boat.jpg)
 
 *父亲就在这样的船上工作。*
 
@@ -87,7 +87,7 @@ cover:
 
 山坡上有一排红底白字的大标语。
 
-![山坡上的玉米地、房屋和红底白字标语](/uploads/the-sixth-photo/chapter-01-hillside-slogan.webp)
+![山坡上的玉米地、房屋和红底白字标语](/uploads/the-sixth-photo/original/chapter-01-hillside-slogan.jpg)
 
 *字写得很大，人的生活却仍由一块块小田组成。*
 
@@ -159,7 +159,7 @@ cover:
 
 他的船在上游被发现，船头撞坏了一块，长杆卡在乱石之间。没有人知道他是在雾里落水，还是被水流卷走。母亲等了很久。每天傍晚，她都会去码头坐一会儿，直到山影完全压住江面。
 
-![岸边的浮屋与水上作业平台](/uploads/the-sixth-photo/chapter-01-floating-house.webp)
+![岸边的浮屋与水上作业平台](/uploads/the-sixth-photo/original/chapter-01-floating-house.jpg)
 
 *江面仍旧有人劳作，父亲的位置却永远空了下来。*
 
