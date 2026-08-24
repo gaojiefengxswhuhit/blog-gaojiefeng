@@ -11,7 +11,7 @@ categories:
   - 生活
 summary: "群光广场已经亮起来，厚重的云还压在街道口上空，远处只剩一线晚霞。"
 cover:
-  image: "/uploads/moments/2026-08-25-jiedaokou-qunguang-dusk.webp"
+  image: "/uploads/moments/2026-08-25-jiedaokou-qunguang-dusk.jpg"
   alt: "武汉街道口群光广场附近的傍晚天空，厚重云层压在商业街区和住宅楼上方"
   caption: "群光广场一带的蓝调时刻。"
   relative: false
@@ -29,6 +29,6 @@ cover:
 
 很像武汉夏天偶尔会出现的几分钟：地面仍然闷热，商场已经进入夜间状态，远处还有晚霞，而头顶的天空突然显得巨大。
 
-![街道口群光广场附近的傍晚天空](/uploads/moments/2026-08-25-jiedaokou-qunguang-dusk.webp)
+![街道口群光广场附近的傍晚天空](/uploads/moments/2026-08-25-jiedaokou-qunguang-dusk.jpg)
 
 *群光广场亮起来之后，天空还没有完全黑。*
